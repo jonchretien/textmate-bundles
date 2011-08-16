@@ -1,0 +1,25 @@
+#  TextMate Bundles
+
+Custom TextMate bundles, mainly for front end development.
+
+##Front End.tmbundle
+
+### CSS
+
++ `meyer` : inserts v2.0 of Eric Meyer's reset
++ `yui` : inserts <link rel="stylesheet" href="http://yui.yahooapis.com/2.9.0/build/reset/reset-min.css">
+
+### HTML
+
++ `irish` : inserts Paul Irish's [Internet Explorer Targeting](http://paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/)
+
+### JavaScript
+
++ Pull in JS libraries from Google's CDN:
+  - `jquery` : inserts <script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+  - `jqueryui` : inserts <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1/jquery-ui.min.js"></script>
+  - `prototype` : inserts <script src="https://ajax.googleapis.com/ajax/libs/prototype/1/prototype.js"></script>
+  - `scriptac` : inserts <script src="https://ajax.googleapis.com/ajax/libs/scriptaculous/1/scriptaculous.js"></script>
++ `switch` : inserts a switch statement (default is 4 cases)
++ `shiv` : inserts <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
++ `log` : expands console.log($1);
