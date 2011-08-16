@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>NYTD.$1 = function() {
+  
+  var $2;
+  
+  this.init = function() {
+    
+  };
+  
+  function $3() {
+    
+  };
+  
+};</string>
+	<key>name</key>
+	<string>js class</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>ooclass</string>
+	<key>uuid</key>
+	<string>61348FED-7471-4925-86D6-69454491EB70</string>
+</dict>
+</plist>

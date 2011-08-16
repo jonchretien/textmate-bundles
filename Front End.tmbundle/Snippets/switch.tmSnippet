@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>switch(${1:expression}) {
+case ${2:1}:
+  ${0:// execute code block}
+  break;
+case ${3:2}:
+  ${0:// execute code block}
+  break;
+case ${4:3}:
+  ${0:// execute code block}
+  break;
+default:
+  ${0:// code to be executed if n is different from case 1 and 2}
+}</string>
+	<key>name</key>
+	<string>switch</string>
+	<key>tabTrigger</key>
+	<string>switch</string>
+	<key>uuid</key>
+	<string>E734A4CD-42B6-4CAB-8452-2E6BE90BA2C9</string>
+</dict>
+</plist>

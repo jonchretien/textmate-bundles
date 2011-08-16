@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>var $1 = $1 || {};
+
+$1.$2 = (function() {
+  
+  var $3;
+
+  function init() {
+    doSomething();
+  }
+  
+  function doSomething() {
+    // code
+  }
+
+  return {
+    init:init
+  };
+  
+}());
+
+$1.$2.init();</string>
+	<key>name</key>
+	<string>module</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>module</string>
+	<key>uuid</key>
+	<string>E80E8D99-3C7B-4D07-8FC7-6CB75A3BD6DF</string>
+</dict>
+</plist>

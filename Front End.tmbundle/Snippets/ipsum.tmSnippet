@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;img src="http://ipsumimage.appspot.com/$1x$2" width="$1" height="$2" alt=" "&gt;</string>
+	<key>name</key>
+	<string>ipsum</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>ipsum</string>
+	<key>uuid</key>
+	<string>F4208FFC-063F-4F81-8121-5CBAD7142858</string>
+</dict>
+</plist>

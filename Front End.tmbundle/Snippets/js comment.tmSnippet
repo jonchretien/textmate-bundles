@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>/*
+* \$Id\$
+* @author Jon Chretien
+* @path $1
+* @requires $2
+* @overview $3
+* @copyright (c)2006 - 2011 The New York Times Company
+*/</string>
+	<key>name</key>
+	<string>js comment</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>comment</string>
+	<key>uuid</key>
+	<string>C0BB136F-4BEF-4F3C-82D9-AA26DCB84267</string>
+</dict>
+</plist>

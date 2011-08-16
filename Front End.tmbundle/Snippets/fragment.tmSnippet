@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>fragment = document.createDocumentFragment()</string>
+	<key>name</key>
+	<string>fragment</string>
+	<key>tabTrigger</key>
+	<string>fragment</string>
+	<key>uuid</key>
+	<string>AD00FEB1-A5F5-4623-8063-9F7273B86C99</string>
+</dict>
+</plist>

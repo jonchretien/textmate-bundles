@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;link rel="stylesheet" href="http://yui.yahooapis.com/2.9.0/build/reset/reset-min.css"&gt;</string>
+	<key>name</key>
+	<string>yui reset</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>yui</string>
+	<key>uuid</key>
+	<string>19764D32-A75E-4AA5-8A97-F2BAE2D15AC1</string>
+</dict>
+</plist>
