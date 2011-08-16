@@ -14,7 +14,7 @@ Custom TextMate bundles, mainly for front end development. All activation is thr
 ### HTML
 
 + Snippets
-  - tab completion for most HTML5 elements (article, aside, figcaption, figure, footer, header, hgroup, nav, time)
+  - tab completion for most HTML5 elements (`article`, `aside`, `figcaption`, `figure`, `footer`, `header`, `hgroup`, `nav`, `time`)
   - `cc:ie` : IE conditional comment
   - `easing` : `<script src="http://js.nyt.com/js/app/lib/jquery/jquery.easing.1.3.js"></script>`
   - `html:5` : generates a basic HTML5 template (doctype, html, head, meta charset, title, body)
@@ -41,12 +41,13 @@ Custom TextMate bundles, mainly for front end development. All activation is thr
   - `shiv` : `<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->`
   - `switch` : inserts a switch statement (default is 4 cases)
   - `disable` : expands the following script that disables all links on the page (sometimes necessary for prototyping):
-  `(function() { // disable links
-    var links = document.getElementsByTagName('a'), max = links.length;
-    for (var i=0; i < max; i++) {
-      links[i].onclick = function() {
-        this.blur();
-        return false;
-      }
-    }
-  })();`
+
+				(function() {
+				  var links = document.getElementsByTagName('a'), max = links.length;
+				  for (var i=0; i < max; i++) {
+				    links[i].onclick = function() {
+				      this.blur();
+				      return false;
+				    }
+				  }
+				})();
