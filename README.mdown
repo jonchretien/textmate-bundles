@@ -1,6 +1,9 @@
 #  TextMate Bundles
 
-Custom TextMate bundles, mainly for front end development. All activation is through tab triggers unless otherwise noted.
+Custom TextMate bundles, mainly for front end development (thanks to [@desandro](https://github.com/desandro) for the inspiration).  All activation is through tab triggers unless otherwise noted. You can either download the bundles directly or through the command line:
+
+	cd ~/Library/Application Support/TextMate/Bundles
+	git clone https://github.com/jonchretien/textmate-bundles.git
 
 ##_myCSS
 
