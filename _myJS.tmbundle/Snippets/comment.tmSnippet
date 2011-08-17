@@ -3,26 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>NYTD.$1 = function() {
-  
-  var $2;
-  
-  this.init = function() {
-    
-  };
-  
-  function $3() {
-    
-  };
-  
-};</string>
+	<string>/*
+* \$Id\$
+* @author Jon Chretien
+* @path $1
+* @requires $2
+* @overview $3
+* @copyright (c)2006 - 2011 The New York Times Company
+*/</string>
 	<key>name</key>
-	<string>js class</string>
+	<string>comment</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>ooclass</string>
+	<string>comment</string>
 	<key>uuid</key>
-	<string>61348FED-7471-4925-86D6-69454491EB70</string>
+	<string>C0BB136F-4BEF-4F3C-82D9-AA26DCB84267</string>
 </dict>
 </plist>

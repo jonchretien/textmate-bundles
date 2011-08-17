@@ -3,16 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"&gt;
-	$0
-&lt;/html&gt;</string>
+	<string>var $1 = $1 || {};</string>
 	<key>name</key>
-	<string>html:xml</string>
+	<string>name</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>html:xml</string>
+	<string>name</string>
 	<key>uuid</key>
-	<string>C1FEF509-A3A5-4D54-903D-A3E2CC260D16</string>
+	<string>0D901074-556F-41E9-8F6D-B70605D036C5</string>
 </dict>
 </plist>
