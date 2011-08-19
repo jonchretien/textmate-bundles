@@ -14,7 +14,7 @@ Custom TextMate bundles, mainly for front end development (thanks to [@desandro]
   - `-r` : displays all vendor prefixes for `border-radius`
   - `-s` : displays all vendor prefixes `box-shadow`
   - `clearfix` : standard clearfix hack
-  - `meyer` : inserts v2.0 of Eric Meyer's reset (updated 20110126)
+  - `reset` : inserts v2.0 of Eric Meyer's reset (updated 20110126)
   - `-t` : displays all vendor prefixes for `transition`
 
 ##_myHTML
